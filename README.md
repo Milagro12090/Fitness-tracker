@@ -27,11 +27,9 @@ tracking their workouts or making new workout schedules
 
 just makin sure it works on local host, I really did try to make the heroku deployment connect to mongodb atlas but after hours of yelling at my computer I had no luck.
 
-<<<<<<< HEAD
+
 ![alt text](image.png)
-=======
-![alt text](image\image.png)
->>>>>>> 599fe4daac7dc08682003cecf111de46793cd89a
+
 
 ## Contact for contributers
 
