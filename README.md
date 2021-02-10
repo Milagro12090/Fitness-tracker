@@ -6,7 +6,7 @@ This is licensed with No License
 
 ## Description
 
-This is a simple fittness tracker whwhere you can make new workout schedules or log what you have worked out during the week.
+This is a simple fittness tracker where you can make new workout schedules or log what you have worked out during the week.
 
 ## Table of Contents
 
